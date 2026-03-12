@@ -31,5 +31,6 @@ for (int i = 0; i < N/2; i++){
 }
 
 // swapping using a third variable
+// using a new array to print the reversed array
 
 // TC is O(N/2)
